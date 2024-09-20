@@ -1,2 +1,2 @@
 # Spaceranger_Pipeline
-Spaceranger_Pipeline for SLURM Scheduler 
+Visium HD Spaceranger_Pipeline for SLURM Scheduler 
